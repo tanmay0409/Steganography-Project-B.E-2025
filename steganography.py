@@ -124,7 +124,7 @@ if __name__ == '__main__':
     # --- ENCODE ---
     original_img_path = r'd:\Projects\Steganography-Project-B.E-2025\test_image.png'
     stego_img_path = r'd:\Projects\Steganography-Project-B.E-2025\secret_image.png'
-    secret = "This is a secret message that we will now retrieve!"
+    secret = "Radhe Shyam , Radha Radha"
 
     original_img = load_image(original_img_path)
     if original_img:
